@@ -1,8 +1,8 @@
 # NPTELCourse
 NPTEL course videos, ppts and assignments
-<p align="center">
+
 ![image](https://user-images.githubusercontent.com/60473704/162786950-c77d18ec-08b4-4574-8c25-a3e1737d9921.png)
-</p>
+
 # Course1 - E-Business
 ### By Prof. Mamata Jenamani   |   IIT Kharagpur
 ### Category :	Management Studies

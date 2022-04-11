@@ -15,8 +15,8 @@ NPTEL course videos, ppts and assignments
 **Week 5**:   _Technologies for E-Business: Internet and Web based system_ \
 **Week 6**:   _Technologies for E-Business: Security and payment systems_ \
 **Week 7**:   _Technologies for E-Business: Supply chain integration technologies (EDI, RFID, Sensors, IoT, GPS, GIS)_ \
-**Week 8**:   _Technologies for E-Business: Supply chain integration technologies (Web services and cloud)_ \ 
+**Week 8**:   _Technologies for E-Business: Supply chain integration technologies (Web services and cloud)_ \
 **Week 9**:   _Decision Support in E-Business: Web analytics_ \
 **Week 10**:  _Decision Support in E-Business: Customer behavior modeling_ \
 **Week 11**:  _Decision Support in E-Business: Auctions_ \
-**Week 12**:  _Decision Support in E-Business: Recommender systems_ \
+**Week 12**:  _Decision Support in E-Business: Recommender systems_ 
